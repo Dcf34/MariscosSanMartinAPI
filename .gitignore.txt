@@ -1,0 +1,8 @@
+# Ignorar todo el contenido en el directorio .vs
+.vs/
+
+# Ignorar archivos de configuración temporal
+*.temp
+
+# Ignorar archivos de base de datos locales
+*.db
